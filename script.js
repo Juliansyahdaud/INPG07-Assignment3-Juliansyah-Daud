@@ -1,5 +1,5 @@
 // api key
-const API_KEY = ''fc54498209mshd69ef9d0175df8ep131b4fjsn73d54f3dc65e'';
+const API_KEY = 'fc54498209mshd69ef9d0175df8ep131b4fjsn73d54f3dc65e';
 
 // variabel-variabel
 const form_search = document.querySelector("#form_search");
